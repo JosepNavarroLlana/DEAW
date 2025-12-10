@@ -1,2 +1,6 @@
-Repositorio de ejercicios para el módulo DEAW (Despliegue de Aplicaciones Web, UD5).
-Contiene prácticas sobre Git y GitHub y ejemplos de control de versiones.
+## Compañeros de clase
+
+| NOMBRE                | GITHUB                        |
+|----------------------|-------------------------------|
+| Luca Matei           | https://github.com/lucamatei2CFGM  |
+| Adrian Grau         | https://github.com/AdrianGrauMelero |
